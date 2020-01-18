@@ -18,6 +18,7 @@ import {
 
 import {
   Header,
+  StyleSheet,
   LearnMoreLinks,
   Colors,
   Text,
